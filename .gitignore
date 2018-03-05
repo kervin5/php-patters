@@ -1,5 +1,4 @@
-.idea/*
 
-vendor/*
-
-.idea/workspace.xml
+*/vendor/
+.idea/inspectionProfiles/
+.idea/vcs.xml
